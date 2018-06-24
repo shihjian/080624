@@ -560,6 +560,7 @@ margin: 0 auto;
   
   .header{
     background-image: url('../image/ph1.jpg');
+    max-width: 100%;
 
   }
 

@@ -554,7 +554,11 @@ margin: 0 auto;
   width: 80%;
   margin: 0 25% 0 25%;
 }
+  .header{
+    background: url('../image/ph1.jpg');
+    max-width: 100%;
 
+  }
 }
 
 @media (max-width:569px){

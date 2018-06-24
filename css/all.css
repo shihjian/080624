@@ -664,3 +664,12 @@ margin: 0 auto;
 }
 }
 
+ @media only screen and (max-width: 768px) {
+  .header{
+    background-image: url('../image/ph1.jpg');
+
+
+  }
+}
+
+

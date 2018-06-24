@@ -534,11 +534,6 @@ margin: 0 auto;
 }
 @media (max-width:767px){
    
-    .header{
-    background-image: url('../image/ph1.jpg');
-    max-width: 100%;
-
-  }
 
   .container span{
     float: none;
@@ -565,7 +560,7 @@ margin: 0 auto;
 @media (max-width:569px){
   
   .header{
-    background-image: url('../image/ph1.jpg');
+    background: url('../image/ph1.jpg');
     max-width: 100%;
 
   }

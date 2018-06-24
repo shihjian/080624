@@ -563,11 +563,7 @@ margin: 0 auto;
 
 @media (max-width:569px){
   
-  .header{
-    background: url('../image/ph1.jpg');
-    max-width: 100%;
 
-  }
 
   .container span {
     float: left;
@@ -662,14 +658,9 @@ margin: 0 auto;
   border-radius: 50%;
   max-width: 45%;
 }
-}
-
- @media only screen and (max-width: 768px) {
-  .header{
-    background-image: url('../image/ph1.jpg');
 
 
-  }
+
 }
 
 
